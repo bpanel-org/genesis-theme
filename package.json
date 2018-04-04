@@ -28,7 +28,7 @@
     "@bpanel/dashboard": "0.0.1",
     "@bpanel/mempool-widget": "0.0.1",
     "@bpanel/peers-widget": "0.0.1",
-    "@bpanel/recent-blocks": "0.0.3",
+    "@bpanel/recent-blocks": "0.0.4",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "brq": "git+https://github.com/bcoin-org/brq.git"
