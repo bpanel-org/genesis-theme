@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/genesis-theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The first theme in a chain of bPanel reference themes - \"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks\"",
   "main": "dist/index.js",
   "scripts": {
