@@ -11,6 +11,7 @@
     "prepublish": "make babel",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/bpanel-org/genesis-theme",
   "keywords": [
     "bpanel",
     "bcoin",
@@ -29,6 +30,7 @@
     "@bpanel/mempool-widget": "0.0.1",
     "@bpanel/peers-widget": "0.0.1",
     "@bpanel/recent-blocks": "0.0.5",
+    "@bpanel/simple-wallet": "0.0.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "brq": "git+https://github.com/bcoin-org/brq.git"
