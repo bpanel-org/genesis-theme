@@ -9,14 +9,14 @@ with the platform. bPanel will come pre-installed with this theme but
 can be easily replaced by editing the `pluginsConfig.js` file.
 
 ### Included Plugins:
-- "@bpanel/bmenace-theme": "0.0.1"
-- "@bpanel/bpanel-footer": "0.0.1"
-- "@bpanel/bpanel-header": "0.0.2"
-- "@bpanel/bui": "0.0.1"
-- "@bpanel/chain-sockets": "0.0.1"
-- "@bpanel/dashboard": "0.0.1"
-- "@bpanel/mempool-widget": "0.0.1"
-- "@bpanel/peers-widget": "0.0.1"
-- "@bpanel/recent-blocks": "0.0.3"
+- [@bpanel/bmenace-theme](https://github.com/bpanel-org/bmenace-theme)
+- [@bpanel/bpanel-footer](https://github.com/bpanel-org/bpanel-footer)
+- [@bpanel/bpanel-header](https://github.com/bpanel-org/bpanel-header)
+- [@bpanel/bui](https://github.com/bpanel-org/bui)
+- [@bpanel/chain-sockets](https://github.com/bpanel-org/chain-sockets)
+- [@bpanel/dashboard](https://github.com/bpanel-org/dashboard)
+- [@bpanel/mempool-widget](https://github.com/bpanel-org/mempool-widget)
+- [@bpanel/peers-widget](https://github.com/bpanel-org/peers-widget)
+- [@bpanel/recent-blocks](https://github.com/bpanel-org/recent-blocks)
 
 ![screenshot](https://github.com/bpanel-org/genesis-theme/blob/master/lib/screenshot.png "Genesis Theme")
