@@ -18,5 +18,6 @@ can be easily replaced by editing the `pluginsConfig.js` file.
 - [@bpanel/mempool-widget](https://github.com/bpanel-org/mempool-widget)
 - [@bpanel/peers-widget](https://github.com/bpanel-org/peers-widget)
 - [@bpanel/recent-blocks](https://github.com/bpanel-org/recent-blocks)
+- [@bpanel/simple-wallet](https://github.com/bpanel-org/simple-wallet)
 
 ![screenshot](https://raw.githubusercontent.com/bpanel-org/genesis-theme/master/screenshot.png "Genesis Theme")
