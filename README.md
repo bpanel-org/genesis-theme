@@ -19,4 +19,4 @@ can be easily replaced by editing the `pluginsConfig.js` file.
 - [@bpanel/peers-widget](https://github.com/bpanel-org/peers-widget)
 - [@bpanel/recent-blocks](https://github.com/bpanel-org/recent-blocks)
 
-![screenshot](https://github.com/bpanel-org/genesis-theme/blob/master/lib/screenshot.png "Genesis Theme")
+![screenshot](https://raw.githubusercontent.com/bpanel-org/genesis-theme/master/screenshot.png "Genesis Theme")
