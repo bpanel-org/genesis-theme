@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "@bpanel/bmenace-theme": "^0.0.1",
-    "@bpanel/bpanel-footer": "^0.1.1",
+    "@bpanel/bpanel-footer": "^0.1.2",
     "@bpanel/bpanel-header": "^0.0.2",
     "@bpanel/chain-sockets": "^0.1.0",
     "@bpanel/dashboard": "^0.0.2",
